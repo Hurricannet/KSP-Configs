@@ -15,3 +15,12 @@ Also if there are errors, even if you havent updated (doesnt matter if i get Iss
 Im german so you can add Issues in German 
 
 also some Notes may be in a mix out of English-German thing xD
+
+
+FOR MOD DEVS: 
+
+1. IF you want me to add some Configs here just send me the standart Config and ill do it
+2. IF YOU DONT WANT THAT YOUR CONFIG IS IN HERE ADD AN ISSUE AND ILL REMOVE IT
+3. NOT EVERY CONFIG IS EDITED!!
+4. I DO NOT PUT ANYTHING IN HERE THAT ISNT AN CONFIG
+5. IF SOMETHING THAT ISNT MENT TO BE AN CONFIG IN HERE ADD AN ISSUE!
